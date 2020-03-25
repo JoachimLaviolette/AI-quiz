@@ -8,7 +8,7 @@ AIQuizz is a serious game, in the format of a quizz, that introduces you to AI. 
   3. What are the applications of AI?
   4. What are the dangers of AI?
 
-In a second part, the user is asked to do the quizz. There are a series of 15 questions to answer.
+In the second part, the user is asked to do the quizz. There are a series of 15 questions to answer.
 
 ## Access the quizz
 
