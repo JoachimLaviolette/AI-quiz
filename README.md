@@ -29,7 +29,7 @@ The **score** increases as soon as a good answer is made. Chaining the right ans
 ### Trophies
 
 The game also includes a **rewarding system** which consists in **unlocking trophies** for performing specific actions or series of actions (i.e. *Make a series of 5 right answers*)
-As soon as a trophy is unlocked, the user can witness a wizard showing the unlocked trophy's title. To know about how to unlock a trophy, the user can find a information list from **Serious-Lab website** (link forthcoming).
+As soon as a trophy is unlocked, the user can witness a wizard showing the unlocked trophy's title. To know about how to unlock a trophy, the user can find a information list from [Serious-Lab's website (link forthcoming)]().
 
 #### Communication with the backend
 
