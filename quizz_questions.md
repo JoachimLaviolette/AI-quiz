@@ -143,7 +143,7 @@
 - De chômage
 - D'emploi
 - D'exclusion sociale
-35. Parmi ces compagnies, laquelle ne fait d'IA ?
+35. Parmi ces compagnies, laquelle ne fait pas d'IA ?
 - Facebook
 - Google
 - Amazon
@@ -167,7 +167,7 @@
 - Une interrogation éthique
 - Un contrôle des services de renseignement
 40. L'IA représente: *(Plusieurs réponses possibles)*
-- Une révolution majeure du 21e siècles *(Plusieurs réponses possibles)*
+- Une révolution majeure du 21e siècles
 - Une désillusion 
 - Un sujet de controverse 
 - Un outil de salut
