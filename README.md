@@ -1,18 +1,20 @@
-# AIQuizz
+# AI-QUIZ
 
 ## Summary
 
-AIQuizz is a serious game, in the format of a quizz, that introduces you to AI. In the first part, the user is taught some theory about AI split into 4 categories: 
-  1. What's AI?
-  2. In which context do we talk about AI?
-  3. What are the applications of AI?
-  4. What are the dangers of AI?
+AI-Quiz is a serious game, in the format of a quiz, that introduces you to AI. In the first part, the user is taught some theory about AI split into 4 categories:
 
-In the second part, the user is asked to do the quizz. There are a series of 15 questions to answer.
+1. What's AI?
+2. In which context do we talk about AI?
+3. What are the applications of AI?
+4. What are the dangers of AI?
 
-## Access the quizz
+In the second part, the user is asked to do the quiz. There are a series of 15 questions to answer.
+
+## Access the quiz
 
 To run the project:
+
 1. Follow the instructions given [here](https://github.com/Simadiver/serious-lab)
 2. When on the platform, go to **"Games"** section
 3. As a theme, select **"AI"**
@@ -20,15 +22,15 @@ To run the project:
 
 ## Gamification
 
-The game has a gamification system based two main parameters: **a score** and **a timer**. 
+The game has a gamification system based two main parameters: **a score** and **a timer**.
 
-The **timer** starts at the beginning of the quizz and ends as soon as the user reaches the end of it.
+The **timer** starts at the beginning of the quiz and ends as soon as the user reaches the end of it.
 
-The **score** increases as soon as a good answer is made. Chaining the right answers sets up a *score multiplicator* that make the user earn more points as he advances in the quizz.
+The **score** increases as soon as a good answer is made. Chaining the right answers sets up a _score multiplicator_ that make the user earn more points as he advances in the quiz.
 
 ### Trophies
 
-The game also includes a **rewarding system** which consists in **unlocking trophies** for performing specific actions or series of actions (i.e. *Make a series of 5 right answers*)
+The game also includes a **rewarding system** which consists in **unlocking trophies** for performing specific actions or series of actions (i.e. _Make a series of 5 right answers_)
 As soon as a trophy is unlocked, the user can witness a wizard showing the unlocked trophy's title. To know about how to unlock a trophy, the user can find a information list from [Serious-Lab's website (link forthcoming)]().
 
 #### Communication with the backend
